@@ -1,10 +1,10 @@
 ac-readme.txt
 
-O diretório /home/aug/github16o/oca/l10n-brazil-copy-nfse-paulistana/ contém 2 subdiretórios:
-1. /home/aug/github16o/oca/l10n-brazil-copy-nfse-paulistana/l10n_br_nfse_paulistana/ → é o módulo já convertido da v15 para a v16 que deve ser copiado e instado na sua instância.
-2. /home/aug/github16o/oca/l10n-brazil-copy-nfse-paulistana/l10n_br_nfse/ → não é o módulo completo: apenas contém os 2 arquivos já devidamente alterados para fazer com que o módulo 'NFSe Paulistana' possa funcionar.
+O repositório 'l10n-brazil-copy-nfse-paulistana' contém apenas o módulo 'l10n_br_nfse_paulistana' já convertido da v15 para a v16 que deve ser copiado (git clone) e instado na sua instância.
 
-Esses 2 arquivos do módulo l10n_br_nfse tiveram que ser modificados para que o módulo l10n_br_nfse_paulistana pudesse funcionar:
+Agora ATENÇÃO: o diretório 'ac-readme/l10n_br_nfse' NÃO CONTÉM O MÓDULO 'l10n_br_nfse' COMPLETO, mas apenas os 2 arquivos já devidamente alterados para fazer com que o módulo 'NFSe Paulistana' possa funcionar - se quiser copiá-los para a sua instância, dê antes um 'diff' para se certificar que não há outras alterações a serem feitas, além das abaixo.
+
+Essas são as modificações que devem ser feitas nos 2 arquivos que pertencem ao módulo 'l10n_br_nfse':
 
 1. /l10n-brazil/l10n_br_nfse/models/document.py
 
