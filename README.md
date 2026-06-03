@@ -4,4 +4,4 @@ Agora ATENÇÃO: o diretório 'ac-readme/l10n_br_nfse' NÃO CONTÉM O MÓDULO 'l
 
 Essas são as modificações que devem ser feitas nos 2 arquivos que pertencem ao módulo 'l10n_br_nfse':
 
-(veja todas as modificações no arquivo 'ac-readme.txt')
+(veja todas as modificações no arquivo 'l10n_br_nfse_paulistana/ac-readme/ac-readme.txt')
