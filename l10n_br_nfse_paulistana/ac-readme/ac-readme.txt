@@ -58,10 +58,8 @@ Essas são as modificações que devem ser feitas nos 2 arquivos que pertencem a
                 </div>
 <!--[ac].2026-05-17-->
 
-(aproximadamente entre as linhas 464 a 469)
+(aproximadamente entre as linhas 464 a 467)
 <!--[ac].2026-05-17-->
 <!--                <span t-field="doc.amount_untaxed" /> -->
-<!--                <span t-field="doc.amount_total" /> -->
-<!--                <span t-field="doc.amount_gross" /> tentativa 2 -->
-                    <span t-field="doc.amount_price_gross" />
+                    <span t-field="doc.fiscal_amount_untaxed" />
 <!--[ac].2026-05-17-->
