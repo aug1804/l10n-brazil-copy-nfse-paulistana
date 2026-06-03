@@ -463,9 +463,7 @@ row {
                 <div class="col-2 linha centro br">
 <!--[ac].2026-05-17-->
 <!--                <span t-field="doc.amount_untaxed" /> -->
-<!--                <span t-field="doc.amount_total" /> -->
-<!--                <span t-field="doc.amount_gross" /> tentativa 2 -->
-                    <span t-field="doc.amount_price_gross" />
+                    <span t-field="doc.fiscal_amount_untaxed" />
 <!--[ac].2026-05-17-->
                 </div>
 
